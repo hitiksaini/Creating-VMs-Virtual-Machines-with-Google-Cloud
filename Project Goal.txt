@@ -1,5 +1,0 @@
-What you'll do
-•	Create a VM using GCP web UI and make a template out of it
-•	Use a command-line interface to interact with VMs
-•	Learn how to configure an auto-enabled service
-•	Learn to use gcloud to deploy VMs with a template
