@@ -1,0 +1,43 @@
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  color :#2b2e4a;
+}
+
+.search-box-container{
+  background-color: #f3f6ff;
+  padding: 5% 7%;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+input{
+  background-color: #fff;
+  width: 50vw;
+  padding: 1% 1%;
+  font-size: .8rem;
+  color: #424642;
+  font-weight: bold;
+  border-radius: 25px;
+  border: 0 !important;
+}
+button{
+  border: 0 !important;
+  background-color: #2b2e4a;
+  padding: 1% 1%;
+  font-weight: bold;
+  border-radius: 25px;
+  color:  #f3f6ff;
+}
+.card-title{
+  font-weight: bold;
+}
+#chart {
+  height: 400px;
+  width: 400px;
+}

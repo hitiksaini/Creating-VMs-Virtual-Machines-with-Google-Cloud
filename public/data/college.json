@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Chandigarh University",
+    "year_founded": 2012,
+    "city": "Mohali",
+    "state": "Punjab",
+    "country": "India",
+    "num_of_students": 50000,
+    "courses" : ["Computer science", "Electronics", "IT"]
+  },
+  {
+    "id": 2,
+    "name": "Embry-Riddle Aeronautical University",
+    "year_founded": 2006,
+    "city": "Pasadena",
+    "state": "California",
+    "country": "United States",
+    "num_of_students": 9760,
+    "courses" : ["Aerospace", "Civil", "MBA"]
+  },
+  {
+    "id": 3,
+    "name": "Le Moyne-Owen College",
+    "year_founded": 2006,
+    "city": "Lexington",
+    "state": "Kentucky",
+    "country": "United States",
+    "num_of_students": 626,
+    "courses" : ["MBA", "BioTech", "BCA"]
+  },
+  {
+    "id": 4,
+    "name": "Armstrong University",
+    "year_founded": 2011,
+    "city": "Tyler",
+    "state": "Texas",
+    "country": "United States",
+    "num_of_students": 14133,
+    "courses" : ["BioTech", "BCA", "Hotel Management"]
+  },
+  {
+    "id": 5,
+    "name": "University of Maryland Medicine",
+    "year_founded": 2000,
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "country": "United States",
+    "num_of_students": 9,
+    "courses" : ["Computer science", "Mechanical", "Aerospace"]
+  },
+  {
+    "id": 6,
+    "name": "Central Bible College",
+    "year_founded": 1986,
+    "city": "Jackson",
+    "state": "Mississippi",
+    "country": "United States",
+    "num_of_students": 1155,
+    "courses" : ["BioTech", "BCA", "IT"]
+  },
+  {
+    "id": 7,
+    "name": "Indian Institute of Technology Madras",
+    "year_founded": 1996,
+    "city": "Madras city",
+    "state": "Madras",
+    "country": "India",
+    "num_of_students": 45555,
+    "courses" : ["Electronics", "IT", "Mechanical"]
+  },
+  {
+    "id": 8,
+    "name": "Indian Institute of Technology Bombay",
+    "year_founded": 2000,
+    "city": "city_mum",
+    "state": "Mumbai",
+    "country": "India",
+    "num_of_students": 67888,
+    "courses" : ["Computer science", "Electronics", "IT"]
+  },
+  {
+    "id": 9,
+    "name": "Indian Institute of Technology Kharagpur",
+    "year_founded": 1963,
+    "city": "pune",
+    "state": "UP",
+    "country": "India",
+    "num_of_students": 65663,
+    "courses" : ["BCA", "Hotel Management", "IT"]
+  },
+  {
+    "id": 10,
+    "name": "Indian Institute of Technology Delhi",
+    "year_founded": 2001,
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "num_of_students": 12345,
+    "courses" : ["Electronics", "IT", "Mechanical"]
+  }
+]
