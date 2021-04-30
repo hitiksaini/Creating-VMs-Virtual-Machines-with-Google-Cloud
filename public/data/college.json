@@ -98,5 +98,726 @@
     "country": "India",
     "num_of_students": 12345,
     "courses" : ["Electronics", "IT", "Mechanical"]
-  }
+  },
+  {
+  "id": 11,
+  "name": "Tezpur University",
+  "year_founded": 1985,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "04"
+}, {
+  "id": 12,
+  "name": "Madurai Kamaraj University",
+  "year_founded": 1999,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "8063"
+}, {
+  "id": 13,
+  "name": "Jai Narayan Vyas University",
+  "year_founded": 2007,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "23917"
+}, {
+  "id": 14,
+  "name": "University of North Bengal",
+  "year_founded": 1999,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "7600"
+}, {
+  "id": 15,
+  "name": "Asian Business School",
+  "year_founded": 1993,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "360"
+}, {
+  "id": 16,
+  "name": "Banasthali University",
+  "year_founded": 2006,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "20"
+}, {
+  "id": 17,
+  "name": "Indian Law Institue",
+  "year_founded": 2007,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "52474"
+}, {
+  "id": 18,
+  "name": "Indian Veterinary Research Institute",
+  "year_founded": 2007,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "9565"
+}, {
+  "id": 19,
+  "name": "Saurashtra University",
+  "year_founded": 2009,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "06"
+}, {
+  "id": 20,
+  "name": "Acharya Nagarjuna University",
+  "year_founded": 2000,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "6"
+}, {
+  "id": 21,
+  "name": "Shanmugha Arts Science Technology and Research Academy",
+  "year_founded": 2012,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "66188"
+}, {
+  "id": 22,
+  "name": "Guru Ghasidas University",
+  "year_founded": 2008,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "0464"
+}, {
+  "id": 23,
+  "name": "Allahabad Agricultural Institute, Deemed University",
+  "year_founded": 2001,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "711"
+}, {
+  "id": 24,
+  "name": "Manonmaniam Sundaranar University",
+  "year_founded": 2010,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "87"
+}, {
+  "id": 25,
+  "name": "Himachal Pradesh Agricultural University",
+  "year_founded": 1966,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "85"
+}, {
+  "id": 26,
+  "name": "RKDF University",
+  "year_founded": 2000,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "388"
+}, {
+  "id": 27,
+  "name": "Tumkur University",
+  "year_founded": 2003,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "28"
+}, {
+  "id": 28,
+  "name": "University of Music and Fine Arts",
+  "year_founded": 2011,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "15105"
+}, {
+  "id": 29,
+  "name": "Birsa Agricultural University",
+  "year_founded": 2010,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "8"
+}, {
+  "id": 30,
+  "name": "SASTRA Deemed University",
+  "year_founded": 1990,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "04499"
+}, {
+  "id": 31,
+  "name": "Central Institute of Fisheries Education",
+  "year_founded": 1997,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "07"
+}, {
+  "id": 32,
+  "name": "Sree Rama Krishna Degree College",
+  "year_founded": 2005,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "4419"
+}, {
+  "id": 33,
+  "name": "Visvesvaraya National Institute of Technology",
+  "year_founded": 2007,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "4"
+}, {
+  "id": 34,
+  "name": "Dr. D.Y. Patil University",
+  "year_founded": 2012,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "531"
+}, {
+  "id": 35,
+  "name": "SASTRA Deemed University",
+  "year_founded": 2008,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "14"
+}, {
+  "id": 36,
+  "name": "Himachal Pradesh Agricultural University",
+  "year_founded": 1993,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "886"
+}, {
+  "id": 37,
+  "name": "Acharya Nagarjuna University",
+  "year_founded": 2008,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "47660"
+}, {
+  "id": 38,
+  "name": "Osmania University",
+  "year_founded": 1995,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "8"
+}, {
+  "id": 39,
+  "name": "Acharya Nagarjuna University",
+  "year_founded": 1999,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "06"
+}, {
+  "id": 40,
+  "name": "ICFAI University",
+  "year_founded": 2012,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "9249"
+}, {
+  "id": 41,
+  "name": "Karnataka State Law University",
+  "year_founded": 2001,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "60"
+}, {
+  "id": 42,
+  "name": "Karnatak University",
+  "year_founded": 1989,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "1"
+}, {
+  "id": 43,
+  "name": "Amity University",
+  "year_founded": 1991,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "26038"
+}, {
+  "id": 44,
+  "name": "Uttar Pradesh Technical University",
+  "year_founded": 2002,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "807"
+}, {
+  "id": 45,
+  "name": "Tamil Nadu Dr. M.G.R. Medical University",
+  "year_founded": 1990,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "6467"
+}, {
+  "id": 46,
+  "name": "North Eastern Hill University",
+  "year_founded": 2001,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "585"
+}, {
+  "id": 47,
+  "name": "Manipal University",
+  "year_founded": 1993,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "7"
+}, {
+  "id": 48,
+  "name": "Bidhan Chandra Agricultural University",
+  "year_founded": 2005,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "8"
+}, {
+  "id": 49,
+  "name": "Allahabad University",
+  "year_founded": 1999,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "17195"
+}, {
+  "id": 50,
+  "name": "Punjab Engineering College Deemed University",
+  "year_founded": 2013,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "43"
+}, {
+  "id": 51,
+  "name": "Bhavnagar University",
+  "year_founded": 2010,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "4"
+}, {
+  "id": 52,
+  "name": "Bhavnagar University",
+  "year_founded": 2010,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "8"
+}, {
+  "id": 53,
+  "name": "University of Jammu",
+  "year_founded": 2010,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "89"
+}, {
+  "id": 54,
+  "name": "National Institute of Technology, Jamshedpur",
+  "year_founded": 2006,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "26"
+}, {
+  "id": 55,
+  "name": "Sardar Patel University",
+  "year_founded": 2010,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "159"
+}, {
+  "id": 56,
+  "name": "ARYA Institute of Engineering & Technology",
+  "year_founded": 1996,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "92421"
+}, {
+  "id": 57,
+  "name": "Govind Ballabh Pant University of Agriculture and Technology",
+  "year_founded": 1965,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "81082"
+}, {
+  "id": 58,
+  "name": "Mangalore University",
+  "year_founded": 1997,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "23392"
+}, {
+  "id": 59,
+  "name": "Bharathidasan University",
+  "year_founded": 2006,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "756"
+}, {
+  "id": 60,
+  "name": "Mother Teresa Women's University",
+  "year_founded": 2007,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "67190"
+}, {
+  "id": 61,
+  "name": "Netaji Subhas Inst of Technology",
+  "year_founded": 2011,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "158"
+}, {
+  "id": 62,
+  "name": "Rajasthan Agricultural University, Bikaner",
+  "year_founded": 1999,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "47"
+}, {
+  "id": 63,
+  "name": "Gauhati University",
+  "year_founded": 1961,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "626"
+}, {
+  "id": 64,
+  "name": "Visvesvaraya National Institute of Technology",
+  "year_founded": 2008,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "2605"
+}, {
+  "id": 65,
+  "name": "Central Institute of English and Foreign Languages",
+  "year_founded": 1992,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "080"
+}, {
+  "id": 66,
+  "name": "Delhi College of Engineering (DCE)",
+  "year_founded": 2010,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "42"
+}, {
+  "id": 67,
+  "name": "Sri Sant Gajanan Maharaj College of Engineering",
+  "year_founded": 2008,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "784"
+}, {
+  "id": 68,
+  "name": "Symbiosis International University",
+  "year_founded": 1984,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "550"
+}, {
+  "id": 69,
+  "name": "Mahatma Gandhi University Meghalaya ",
+  "year_founded": 1993,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "1"
+}, {
+  "id": 70,
+  "name": "Himachal Pradesh Agricultural University",
+  "year_founded": 1996,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "484"
+}, {
+  "id": 71,
+  "name": "Banasthali University",
+  "year_founded": 2001,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "11"
+}, {
+  "id": 72,
+  "name": "Chhatrapati Shahu Ji Maharaj University",
+  "year_founded": 2000,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "03"
+}, {
+  "id": 73,
+  "name": "Sanjay Gandhi Postgraduate lnstitute of Medical Sciences",
+  "year_founded": 2000,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "83"
+}, {
+  "id": 74,
+  "name": "CCS Haryana Agricultural University",
+  "year_founded": 1995,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "56"
+}, {
+  "id": 75,
+  "name": "Kurukshetra University",
+  "year_founded": 1999,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "688"
+}, {
+  "id": 76,
+  "name": "Narsee Monjee Institute of Management Studies",
+  "year_founded": 2009,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "1339"
+}, {
+  "id": 77,
+  "name": "University of Pune",
+  "year_founded": 2007,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "55578"
+}, {
+  "id": 78,
+  "name": "Dr. D.Y. Patil University",
+  "year_founded": 1995,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "95"
+}, {
+  "id": 79,
+  "name": "University of Agricultural Sciences, Bangalore",
+  "year_founded": 1994,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "2613"
+}, {
+  "id": 80,
+  "name": "Mahatma Gandhi University Meghalaya ",
+  "year_founded": 1994,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "48273"
+}, {
+  "id": 81,
+  "name": "Jaypee Institute of Information Technology",
+  "year_founded": 2003,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "61083"
+}, {
+  "id": 82,
+  "name": "All India Institute of Medical Sciences",
+  "year_founded": 1994,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "92401"
+}, {
+  "id": 83,
+  "name": "Bharathiar University",
+  "year_founded": 1996,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "61"
+}, {
+  "id": 84,
+  "name": "Jaipur National University",
+  "year_founded": 1990,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "145"
+}, {
+  "id": 85,
+  "name": "University of Jammu",
+  "year_founded": 1988,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "0565"
+}, {
+  "id": 86,
+  "name": "Central Institute of English and Foreign Languages",
+  "year_founded": 1988,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "07"
+}, {
+  "id": 87,
+  "name": "Sree Chitra Tirunal Institute for Medical Sciences and Technology",
+  "year_founded": 2010,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "44853"
+}, {
+  "id": 88,
+  "name": "Mahatma Gandhi Chitrakut Gramoday University",
+  "year_founded": 2008,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "757"
+}, {
+  "id": 89,
+  "name": "Rajiv Gandhi Technical University (University of Technology of Madhya Pradesh)",
+  "year_founded": 2002,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "947"
+}, {
+  "id": 90,
+  "name": "National Institute of Technology, Rourkela",
+  "year_founded": 1995,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "52"
+}, {
+  "id": 91,
+  "name": "Vinayaka Mission's Research Foundation-Deemed University",
+  "year_founded": 2010,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "537"
+}, {
+  "id": 92,
+  "name": "Mar Athanasios College for Advanced Studies",
+  "year_founded": 1988,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "5606"
+}, {
+  "id": 93,
+  "name": "Maharshi Dayanand Sarswati University Ajmer",
+  "year_founded": 2011,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "13993"
+}, {
+  "id": 94,
+  "name": "University of Roorkee",
+  "year_founded": 1985,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "8820"
+}, {
+  "id": 95,
+  "name": "Sardarkrushinagar Dantiwada Agricultural University",
+  "year_founded": 2007,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "9759"
+}, {
+  "id": 96,
+  "name": "Mahatma Jyotiba Phule Rohilkhand University Bareilly ",
+  "year_founded": 2007,
+  "city": "R S",
+  "state": "Gujarat",
+  "country": "India",
+  "num_of_students": "4"
+}, {
+  "id": 97,
+  "name": "Jai Narayan Vyas University",
+  "year_founded": 2003,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "96296"
+}, {
+  "id": 98,
+  "name": "University of Delhi",
+  "year_founded": 1999,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "9481"
+}, {
+  "id": 99,
+  "name": "Kumaun University",
+  "year_founded": 2009,
+  "city": "Sadar Bazar",
+  "state": "Uttar Pradesh",
+  "country": "India",
+  "num_of_students": "082"
+}, {
+  "id": 100,
+  "name": "Sri Venkateswara University",
+  "year_founded": 2012,
+  "city": "Agraharam",
+  "state": "Andhra Pradesh",
+  "country": "India",
+  "num_of_students": "79"
+}
 ]

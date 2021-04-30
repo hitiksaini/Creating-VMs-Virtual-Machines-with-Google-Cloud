@@ -18,7 +18,7 @@ button:focus {
 
 input{
   background-color: #fff;
-  width: 50vw;
+  width: 46vw;
   padding: 1% 1%;
   font-size: .8rem;
   color: #424642;
@@ -39,5 +39,9 @@ button{
 }
 #chart {
   height: 400px;
-  width: 400px;
+  width: 85vw;
+}
+#chart1 {
+  height: 400px;
+  width: 85vw;
 }

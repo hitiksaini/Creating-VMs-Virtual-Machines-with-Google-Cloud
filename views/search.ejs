@@ -4,7 +4,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hitik Saini</title>
+  <title>Assignment Challenge</title>
+  <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;800&display=swap" rel="stylesheet">
   <!-- CSS only -->
@@ -17,43 +18,33 @@
 <body>
 
   <div class="search-box-container">
-    <h1 class="">Search by College <b>Name</b> for details</h1>
-    <div class="mb-4">
-      <form class="" action="/" method="post">
-        <input type="text" name="college_name" placeholder="search college by name, state">
-        <button type="submit" name="button">Go</button>
-      </form>
-    </div>
-
-    <p>The above search bar is capable of finding similar colleges too. See the
-      <a target="_blank" href="data/college.json">mock data of colleges</a> and the  <a target="_blank" href="/chart">Dashboard</a> </p>
+    <h1 class="">Showing result for <b><%=cn%></b></h1>
+    <br>
+    <h4>Found  <b><%=results.length%></b> matching colleges</h4>
   </div>
 
   <div class="container mt-4">
-
-
-
     <div class="row">
-      <%  colleges.forEach(function(college){ %>
+      <%  results.forEach(function(result){ %>
       <div class=" wow fadeIn col-md-6 mx-auto">
 
         <div class=" card-event mb-3" style="max-width: 500px;">
           <div class="row">
             <div class="col-md-12">
               <div class="card-body ">
-                <h5 class="card-title"><%=college.name%></h5>
-                <p><%=college.city%>, <%=college.state%>, <%=college.country%></p>
+                <h5 class="card-title"><%=result.name%></h5>
+                <p><%=result.city%>, <%=result.state%>, <%=result.country%></p>
                 <div class="row">
                   <div class="col-md-6">
-                    <p class="text-muted text-left">Students : <%=college.num_of_students%></p>
+                    <p class="text-muted text-left">Students : <%=result.num_of_students%></p>
                   </div>
                   <div class="col-md-6">
-                    <p class="text-muted text-left">Founded : <%=college.year_founded%> </p>
+                    <p class="text-muted text-left">Founded : <%=result.year_founded%> </p>
                   </div>
                 </div>
                 <div class="row">
                   <div class="col-md-12">
-                    <p class="text-muted text-left">courses : <%=college.courses%></p>
+                    <p class="text-muted text-left">courses : <%=result.courses%></p>
                   </div>
                 </div>
               </div>
