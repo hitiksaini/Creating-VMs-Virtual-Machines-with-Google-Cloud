@@ -1,7 +1,6 @@
-## Task to be done: 
-A demo mongo+nodejs project showing the core funtionality of both the tech stacks.
+## Task: 
 
-### Schema :- 
+#### Schema :- 
 * College : Id, Name, Year founded, City, State, Country, No of students, Courses  (Computer science, Electronics, IT..etc)
 * Student : Id, Name, Year of batch, College_Id, Skills (C++, Java, C,...etc)
 
